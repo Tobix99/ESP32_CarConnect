@@ -62,11 +62,7 @@ includes:
 - /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/libs/wifi/esp32/include
 filesystem:
 - /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/libs/ca-bundle/fs/ca.pem
-- /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/fs/bootstrap-4.1.3
-- /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/fs/bootstrap.bundle.min.js
-- /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/fs/bootstrap.min.css
 - /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/fs/index.html
-- /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/fs/jquery-3.1.1.slim.min.js
 binary_libs:
 - /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/libs/mongoose/lib/esp32/libmongoose.a
 - /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/libs/ota-http-client/lib/esp32/libota-http-client.a
