@@ -1,6 +1,6 @@
 name: ESP32_CarConnect
 type: app
-version: 1.6.3
+version: 1.6.4
 platform: esp32
 platforms:
 - cc3200
