@@ -1,6 +1,6 @@
 author: Tobias Heinze
 description: App for reading CAN-Bus and Displaying it in a website
-version: 1.6.1
+version: 1.6.3
 
 libs_version: ${mos.version}
 modules_version: ${mos.version}

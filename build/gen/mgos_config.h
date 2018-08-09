@@ -1,6 +1,6 @@
 /*
  * Generated file - do not edit.
- * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_config --c_global_name=mgos_sys_config --dest_dir=/fwbuild-volumes/2.4.3/apps/Node_MCU32-Car_Front/esp32/build_contexts/build_ctx_839478260/build/gen/ /mongoose-os/fw/src/mgos_debug_udp_config.yaml /mongoose-os/fw/src/mgos_sys_config.yaml /mongoose-os/fw/platforms/esp32/src/esp32_sys_config.yaml /fwbuild-volumes/2.4.3/apps/Node_MCU32-Car_Front/esp32/build_contexts/build_ctx_839478260/build/gen/mos_conf_schema.yml
+ * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_config --c_global_name=mgos_sys_config --dest_dir=/fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/build/gen/ /mongoose-os/fw/src/mgos_debug_udp_config.yaml /mongoose-os/fw/src/mgos_sys_config.yaml /mongoose-os/fw/platforms/esp32/src/esp32_sys_config.yaml /fwbuild-volumes/2.4.3/apps/ESP32_CarConnect/esp32/build_contexts/build_ctx_665446919/build/gen/mos_conf_schema.yml
  */
 
 #ifndef MGOS_CONFIG_H_
